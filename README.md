@@ -24,13 +24,12 @@ One of our mian contribution is the Frequency Preference Control Module (FPCM) a
 For example, plz refer to the repo: [Github](https://github.com/retsuh-bqw/ICCV23-DiffusionModel-AT), where we yield a promising **63.63\%** AutoAttack accuracy with 2M synthetic data. The original repo is at: [GitHub](https://github.com/wzekai99/DM-Improves-AT)
 
 ## Citation
-The camera ready version of our ICCV23 papr is not yet publicly available, please refer to our paper on arXiv.
 If you find our work useful in your research, please consider citing:
 ````
 @article{bu2023towards,
   title={Towards Building More Robust Models with Frequency Bias},
   author={Bu, Qingwen and Huang, Dong and Cui, Heming},
-  journal={arXiv preprint arXiv:2307.09763},
+  journal={International Conference on Computer Vision (ICCV)},
   year={2023}
 }
 ````
