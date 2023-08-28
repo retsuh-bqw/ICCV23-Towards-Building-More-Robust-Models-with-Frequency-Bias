@@ -21,6 +21,7 @@ The vulnerability of deep neural networks to adversarial samples has been a majo
 #### Note： 
 One of our mian contribution is the Frequency Preference Control Module (FPCM) as proposed in the paper, which only involves relevant changes in the model definition script. You can migrate the relevant implementation to any of the other adversarial training code bases.
 
+For example, plz refer to the repo: [Github](https://github.com/retsuh-bqw/ICCV23-DiffusionModel-AT), where we yield a promising **63.63\%** AutoAttack accuracy with 2M synthetic data. The original repo is at: [GitHub](https://github.com/wzekai99/DM-Improves-AT)
 
 ## Citation
 The camera ready version of our ICCV23 papr is not yet publicly available, please refer to our paper on arXiv.
