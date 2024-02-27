@@ -29,10 +29,12 @@ For example, plz refer to the repo: [Github](https://github.com/retsuh-bqw/ICCV2
 ## Citation
 If you find our work useful in your research, please consider citing:
 ````
-@article{bu2023towards,
-  title={Towards Building More Robust Models with Frequency Bias},
-  author={Bu, Qingwen and Huang, Dong and Cui, Heming},
-  journal={International Conference on Computer Vision (ICCV)},
-  year={2023}
+@InProceedings{Bu_2023_ICCV,
+    author    = {Bu, Qingwen and Huang, Dong and Cui, Heming},
+    title     = {Towards Building More Robust Models with Frequency Bias},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {4402-4411}
 }
 ````
